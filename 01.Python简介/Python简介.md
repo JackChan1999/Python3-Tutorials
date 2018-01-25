@@ -2,7 +2,11 @@ Python是著名的“龟叔”Guido van Rossum在1989年圣诞节期间，为了
 
 现在，全世界差不多有600多种编程语言，但流行的编程语言也就那么20来种。如果你听说过TIOBE排行榜，你就能知道编程语言的大致流行程度。这是最近10年最常用的10种编程语言的变化图：
 
-![tpci_trends](https://cdn.liaoxuefeng.com/cdn/files/attachments/00138595453161126cc9f11f1d441b0934661239528fa55000/0)
+![tpci_trends](https://github.com/JackChan1999/Python2-Course/raw/master/1-Python简介/img/tpci_trends.png)
+
+最新的编程语言排行榜，Python已经上升到了第四名
+
+![](https://github.com/JackChan1999/Python2-Course/raw/master/1-Python简介/img/language.png)
 
 总的来说，这几种编程语言各有千秋。C语言是可以用来编写操作系统的贴近硬件的语言，所以，C语言适合开发那些追求运行速度、充分发挥硬件性能的程序。而Python是用来编写应用程序的高级编程语言。
 
